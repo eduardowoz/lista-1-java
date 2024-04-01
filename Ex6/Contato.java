@@ -1,6 +1,5 @@
-public class Contato {
-    
-}
+package Ex6;
+
 class Contato {
 
     private String nome;
